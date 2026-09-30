@@ -1,6 +1,6 @@
 # Hi, I'm Krishnam Garg 👋
 
-### aspiring Software Engineer & Developer | Tech Enthusiast | Python • Java • SQL
+### Aspiring Software Engineer & Developer | Tech Enthusiast | Python • Java • SQL
 I'm a Computer Science student at **Bennett University** with an interest in software development, problem solving, and practical applications of technology.
 ---
 
