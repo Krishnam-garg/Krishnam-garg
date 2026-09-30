@@ -80,7 +80,7 @@ The current focus is on moving from individual projects toward writing **cleaner
 
 I'm interested in collaborating on **software projects, hackathons, developer communities and technology-focused initiatives**.
 
-[LinkedIn](linkedin.com/in/krishnam-garg) • [Portfolio](YOUR_PORTFOLIO_URL) • [Email](mailto:krishnamgarg75@gmail.com)
+[LinkedIn](linkedin.com/in/krishnam-garg) • [Email](mailto:krishnamgarg75@gmail.com)
 
 ---
 
